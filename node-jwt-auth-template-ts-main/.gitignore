@@ -1,4 +1,3 @@
 /node_modules
 .env
-LICENSE
 tsconfig.ts
